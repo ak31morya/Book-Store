@@ -1,0 +1,101 @@
+[
+   { 
+      "id":1,
+      "name":"Story Book",
+      "title":"Entertain your self",
+      "price":0,
+      "category": "Entertain",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":2,
+      "name":"Food Book",
+      "title":"learn and eat",
+      "price":0,
+      "category": "Cooking",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":3,
+      "name":"Science Book",
+      "title":"Knowlegde gained",
+      "price":0,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":4,
+      "name":"horror Story Book",
+      "title":"The Horror hours",
+      "price":100,
+      "category": "Thriler",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":5,
+      "name":"Physics Book",
+      "title":"Albert edition book",
+      "price":200,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":6,
+      "name":"Chemistry Book",
+      "title":"Science with Chemicals",
+      "price":150,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":7,
+      "name":"Story Book",
+      "title":"dskjdhfkjnf",
+      "price":120,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":8,
+      "name":"Story Book",
+      "title":"dskjdhfkjnf",
+      "price":30,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":9,
+      "name":"Story Book",
+      "title":"dskjdhfkjnf",
+      "price":100,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":10,
+      "name":"Story Book",
+      "title":"dskjdhfkjnf",
+      "price":129,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    },
+    { 
+      "id":11,
+      "name":"Story Book",
+      "title":"dskjdhfkjnf",
+      "price":139,
+      "category": "Knowlegde",
+      "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fbook-covers%2Ftemplates%2Fchildrens%2F&psig=AOvVaw2Rv0CmJ5oHK331Mwl1W-Gj&ust=1716074316198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDutJLplYYDFQAAAAAdAAAAABAE"
+
+    }
+]
