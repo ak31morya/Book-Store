@@ -49,7 +49,7 @@ function Footer() {
           </div>
         </nav>
         <aside>
-          <p>Copyright © 2024 - All right reserved by Arun Kumar</p>
+          <p>Copyright © 2024 - All right reserved by Aashish Morya </p>
         </aside>
       </footer>
     </div>
